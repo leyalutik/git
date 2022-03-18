@@ -1,4 +1,3 @@
-
 @Echo off
 chcp 65001
 
@@ -22,4 +21,4 @@ pause
 
 start leya\ADD_COMMAND.bat 
 
-exit 
+exit
